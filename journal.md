@@ -1,6 +1,6 @@
 # August 09, 2024 
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
-# September 05,2024
+# September 06,2024
 3 sensors found on the Sphero BOLT are:
 -Accelerometer (Detects motion and orientation.)
 -Gyroscope (Measures Rotation and angular velocity)

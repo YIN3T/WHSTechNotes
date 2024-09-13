@@ -1,4 +1,4 @@
-# August 28, 2024 
+# August 28,2024 
 Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
 # September 6,2024
 3 sensors found on the Sphero BOLT are:

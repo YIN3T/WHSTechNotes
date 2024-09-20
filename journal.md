@@ -10,3 +10,7 @@ The light sensor on the Sphero BOLT measures ambient light levels, allowing the 
 I think the instructions were perefectly fine, and the setup was clear. I believe the problem wasn't nothing with the directions but with the people not following them properly. Maybe just emphasize more that if they keep doing it wrong, they'll continue getting a zero every week. That might make everyone pay more attention and do it correctly. I personally didn't encounter any challeneges while folloiwng the direct instructions.
 # September 17, 2024
 This is a free week.
+# September 20, 2024
+Today, using the website of HourofCode I completeted the assignment Codesters: Turtle Traffic! it ranges from grades Grades 6-8 introducing a beginner level of Python. The description goes the lines along of
+"Learn the basics of coding in Python while creating your own turtle-crossing game! Use lists and loops to set up your game, and events to create cars and control the turtle! Can you safely cross the road?"
+honestly it said grades 6-8, but it seemed harder.

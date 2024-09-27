@@ -14,3 +14,5 @@ This is a free week.
 Today, using the website of HourofCode I completeted the assignment Codesters: Turtle Traffic! it ranges from grades Grades 6-8 introducing a beginner level of Python. The description goes the lines along of
 "Learn the basics of coding in Python while creating your own turtle-crossing game! Use lists and loops to set up your game, and events to create cars and control the turtle! Can you safely cross the road?"
 honestly it said grades 6-8, but it seemed harder.
+# September 27, 2024
+Following instructions exactly is really important when learning to code. Even a tiny mistake, like missing a semicolon, can make a program not work at all. For example, if you forget to define a variable the program will crash. Paying attention to details early on helps you do better with harder projects later. In the end, being precise leads to success and makes you feel more confident in coding.

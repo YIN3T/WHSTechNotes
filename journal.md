@@ -16,3 +16,5 @@ Today, using the website of HourofCode I completeted the assignment Codesters: T
 honestly it said grades 6-8, but it seemed harder.
 # September 27, 2024
 Following instructions exactly is really important when learning to code. Even a tiny mistake, like missing a semicolon, can make a program not work at all. For example, if you forget to define a variable the program will crash. Paying attention to details early on helps you do better with harder projects later. In the end, being precise leads to success and makes you feel more confident in coding.
+# October 1, 2024
+One task where computer science affects my daily life is using messaging apps like instagram or Imessage to talk to friends. These apps are created through coding and programming, which allow messages to be sent quickly and safely. WIthout computer science, I wouldn't be able to communicate instantly with others, making it harder to stay connected and share information. My day would be much more difficult wihtout this easy and fast way to chat with people.

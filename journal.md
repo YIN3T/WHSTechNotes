@@ -25,3 +25,8 @@ Skills requried: Important skills include proficiency in programming languages l
 Education and Expereince: A bachelor's degree in computer science or a related field is usually requried.
 Career growth: Opportunities for growth include becoming a senior engineer, team lead, or moving into management roles.
 Reflection: This job matches my interest in creating software and problem-solving within the technology field.
+# October 15, 2024
+1. Coding helps you break big tasks into smaller steps, making it easier to solve problems. For example, in business, coding could help you organize customer data more efficiently.
+2. In healthcare, coding could help doctors analyze patient data faster. In education, teachers could create tools to track student progress. Coding skills let you adapt to the digitial tools in these fields.
+3. Coding allows you to create new apps or programs, which is creative. In collaboration, you can team up with others to develop better solutions, like a finance expert working with a coder to build a budgeting tool.
+4. Doctors can develop patient care apps, and teachers can make interactive learning tools. Coding could help me in my future career by letting me create tools to solve problems, even if im not in tech directy.

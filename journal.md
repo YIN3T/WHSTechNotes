@@ -32,3 +32,5 @@ Reflection: This job matches my interest in creating software and problem-solvin
 4. Doctors can develop patient care apps, and teachers can make interactive learning tools. Coding could help me in my future career by letting me create tools to solve problems, even if im not in tech directy.
 # October 21, 2024
 Artifical Intelligence, also known as AI, is changing many areas in life. In healthcare, Ai can help doctors analyze medical images quickly, which improves patient care. In education, it creates personalized learning experiences for the students. Self driving cars also use AI to make transporation safer. However, there are some risk factors that come along with the addition of Ai aswell. Job automation may leave some people without jobs, and bias in AI can lead to unfair descisions in hiring or law enforcement. Additionaly, Ai systems can be hacked, risking the leakage of personal information. While AI has great benefits, we also must be aware that it has its challenges aswell.
+# October 28, 2024
+

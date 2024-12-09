@@ -43,5 +43,5 @@ In the future, computer scicene could make elections even safer and easier.Bette
 Technology has changed how we grow, move, and buy food, especially during the holidays. Machines like tractors and harvesters make farming faster and cheaper, so food costs less. Refrigerated trucks and tracking systems keep food fresh and get it to stores quickly. Online shopping and delivery apps make it easy to buy food without leaving home. But there are some problems, like fewer jobs because of machines or big delays if the systems break down. For example, if a truck breaks down, food might not get to the store in time. Technology helps a lot, but it’s not perfect.
 # December 2, 2024
 I researched OpenAI’s progress in natural language processing (NLP). This technology helps computers understand and generate human language, improving tools like ChatGPT. It could make daily life easier by assisting with communication and research. In my future career, I could use it to build smarter applications for education or business. However, ethical issues like privacy and bias need to be carefully addressed.
-
 Source: OpenAI website
+# December 9, 2024

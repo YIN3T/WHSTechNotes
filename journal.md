@@ -48,3 +48,7 @@ Source: OpenAI website
 The term “brain rot” makes me think about how too much time online can hurt your focus and mental health. Digital media has been both good and bad for me this year—it’s fun and helpful, but it can feel like a waste when I spend too much time scrolling. I’ve seen a lot of “slop” online, like low-quality posts, but I also enjoy creative content, like “lore,” which keeps stories and ideas alive. I think it’s possible to use technology in a good way by setting limits and focusing on things that really matter. If we are careful, we can enjoy the benefits of being online without letting it take over our lives.
 # December 16, 2024
 Im extremely exicted and looking foward to winter break, I honestly can't wait to get as much as sleep as I want.
+# January 8, 2025
+Looking Back: I enoyed learning coding and working on projects that semester.
+Looking ahead: I would like to learn more about cybersecuirty and how to protect systems
+Certifcations: I am interested in a Python certification and would like more pratice exercises to prepare.

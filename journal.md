@@ -52,3 +52,5 @@ Im extremely exicted and looking foward to winter break, I honestly can't wait t
 Looking Back: I enjoyed learning coding and working on projects that semester.
 Looking ahead: I would like to learn more about cybersecuirty and how to protect systems
 Certifcations: I am interested in a Python certification and would like more pratice exercises to prepare.
+# January 13, 2025
+The tech industry is changing to focus more on AI skills instead of old tech jobs. I think AI can help people by making new jobs, but it might also take away some jobs away. To get ready for this, I would learn about AI, coding and keep up with upcoming new tech. I would also pratice solving problems and staying flexible so I can handle changes.

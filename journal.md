@@ -54,3 +54,6 @@ Looking ahead: I would like to learn more about cybersecuirty and how to protect
 Certifcations: I am interested in a Python certification and would like more pratice exercises to prepare.
 # January 13, 2025
 The tech industry is changing to focus more on AI skills instead of old tech jobs. I think AI can help people by making new jobs, but it might also take away some jobs away. To get ready for this, I would learn about AI, coding and keep up with upcoming new tech. I would also pratice solving problems and staying flexible so I can handle changes.
+# January 22, 2025
+1.Government intervention can affect companies like Tiktok. They might change how they work. Users might lose access to apps they enjoy, causing frustation and confusion. To solve security concerns, TikTok could store data in each country instead of sharing it globally. This would make governments and users feel safer about their information.
+2. If I were a developer, I'd add a feature that shows users what data is collected and lets them control it. This would build trust and improve privacy. In class, we learned how important data privacy is in app development. This situtation reminds me to always think about secuirty when working on projects. Keeping user data safe is key to making successful apps.

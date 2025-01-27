@@ -58,3 +58,11 @@ The tech industry is changing to focus more on AI skills instead of old tech job
 1.Government intervention can affect companies like Tiktok. They might change how they work. Users might lose access to apps they enjoy, causing frustation and confusion. To solve security concerns, TikTok could store data in each country instead of sharing it globally. This would make governments and users feel safer about their information.
 
 2. If I were a developer, I'd add a feature that shows users what data is collected and lets them control it. This would build trust and improve privacy. In class, we learned how important data privacy is in app development. This situtation reminds me to always think about secuirty when working on projects. Keeping user data safe is key to making successful apps.
+# January 27, 2025
+| Name   | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Harrison | Text        | And more      |
+
+
+

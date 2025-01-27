@@ -59,12 +59,12 @@ The tech industry is changing to focus more on AI skills instead of old tech job
 
 2. If I were a developer, I'd add a feature that shows users what data is collected and lets them control it. This would build trust and improve privacy. In class, we learned how important data privacy is in app development. This situtation reminds me to always think about secuirty when working on projects. Keeping user data safe is key to making successful apps.
 # January 27, 2025
-| Name   | Description | Test Text     |
-| :---  |    :----:   |          ---: |
-| Jimmy
-| Kayla
-| Bart | Title       | Here's this   |
-| Harrison | Text        | And more      |
+| Name     | Car            |Test Text                |
+| :---     |    :----:      |          ---:           |
+| Jimmy    | Honda Civic    | Drilled Hole in Gas Tank|
+| Kayla    | Gmc Sierra     | Fixed wrong Problem     |
+| Bart     | Toyota Corolla | Left stains on carpet   |          
+| Harrison | Subaru Foster  | Left The oil cap off    |         
 
 
 

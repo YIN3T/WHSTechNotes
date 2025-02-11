@@ -69,5 +69,7 @@ The tech industry is changing to focus more on AI skills instead of old tech job
 1.Air traffic control systems can help plane avoid crashes by tracking their locations. Sometimes, software errors or old systems can cause mistakes. IF ATC had better software it could fine problems faster. Autopilot and warning systems also help pilots react quickly. These improvements could prevent accidents like the recent collision.
 
 2.Cybersecuirty is important because hackers could attack planes or air traffic systems. If someone messes witht he signals, pilots could get the wrong info. Stronger security can stop hackers from causing problems. Also software can study past crashes to find risks. Fixing these issues can make flying safer for everyone.
-
+# February 11, 2025
+1.GameIQ helps coaches make smart choices fast. It tracks player stats and game data. The app suggests the best plays using past ad live info. Coaches get alerts about player energy and defense gaps. The dashboard shows simple stats for quick decisions.
+  2. The app saves player stats in lists and tables. It sorts and find data fast for easy use. Smart programs study team trends to help coaches plan. Maps, charts, and graphs show important patterns. These tools help teams play better and win more games.
 

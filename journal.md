@@ -99,3 +99,8 @@ I feel nervous because STAAR testing is coming up, and theres so much to study. 
 AI tools can really help students get ready for big tests like the STAAR. They can explain hard topics in simple ways so I can understand them better. I can also use them to pratice with sample questions and see where I need to improve. Some AI tools can even help me stay organized by creating study schedules. This would make test prep feel less stressful and even more planned out.
 
   The most useful feature of an AI tutor for me would be quick and clear explainations. I like getting help right away whenever im stuck, and AI can do that. If it helped me study faster and smarter, i'd forsure give it a try. But if its confusing or too much work to set up, I probably wouldn't use it. Overall, I think AI could be a great tool as long as it stays simple and helpful.
+
+# April 14, 2025
+I believe that banning cell phones during school instruction can be both good and bad. IT might help students stay focused in clas and stop problems like cheating or cyberbullying. Without phones, people might talk more face to face and pay better attention to their teachers. Also, not being on social media all day can help students feel less stressed or distracted. These rules could help improve learning and make the classroom a better place for everyone.
+
+  However, these bans could also cause some problems. If there is an emergency, students may not be able to contact their parents right away. Also, some students may feel like they are not trusted or treated fairly. If this rule came to my school, I would be okay with putting my phone away during class, but I would want to be able to check it during lunch and in between classes. I think there should be balance between focus and freedom.

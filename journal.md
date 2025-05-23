@@ -115,3 +115,6 @@ I believe 100 unarmed men would never be able overpower a silverback gorilla. Si
 The "Chromebook Challenge" is not ethical because it puts both people and property in danger. Inserting objects like pencils into USB ports can damage the Chromebooks internal parts, cause it to short circut, or even start a fire. This kind of behavior is not a joke, its a serious safety harzard. In class, we've learned that using technology responsibly means thinking about the impact of our actions. School equipment is for learning, and damaging it affects not only the person doing so but also other students who may have to use it.
 
   As future digital citizens and technology professinals, it is our responsibility to be considerate and look after technology. If someone thinks this trend is funny, I would say to them that in the real world, damaging equipment can lead to expensive repairs, injurys, or even legal consenquences. Employers will not tolerate careless behvaior around technology, especially where safety is involved. Praticing responsible and safe tech habits now enables us to build trust, protect others and prepare for the future careers where responsibility will be expected.
+
+# May 19, 2025
+Yes im ready for summer because I need a break from school. I'm excited to relax, sleep in, and hang out with freinds. Summer gives me ime to enjoy  life and recharge.
